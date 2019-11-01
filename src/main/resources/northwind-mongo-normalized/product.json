@@ -1,0 +1,924 @@
+﻿{
+  "_id" : "3",
+  "productName" : "Aniseed Syrup",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "12 - 550 ml bottles",
+  "unitPrice" : 10.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "4",
+  "productName" : "Chef Anton's Cajun Seasoning",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "48 - 6 oz jars",
+  "unitPrice" : 22.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "5",
+  "productName" : "Chef Anton's Gumbo Mix",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "36 boxes",
+  "unitPrice" : 21.350000000000001,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "6",
+  "productName" : "Grandma's Boysenberry Spread",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "12 - 8 oz jars",
+  "unitPrice" : 25.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "8",
+  "productName" : "Northwoods Cranberry Sauce",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "12 - 12 oz jars",
+  "unitPrice" : 40.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "15",
+  "productName" : "Genen Shouyu",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "24 - 250 ml bottles",
+  "unitPrice" : 15.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "44",
+  "productName" : "Gula Malacca",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "20 - 2 kg bags",
+  "unitPrice" : 19.449999999999999,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "61",
+  "productName" : "Sirop d'érable",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "24 - 500 ml bottles",
+  "unitPrice" : 28.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "63",
+  "productName" : "Vegie-spread",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "15 - 625 g jars",
+  "unitPrice" : 43.899999999999999,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "66",
+  "productName" : "Louisiana Hot Spiced Okra",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "24 - 8 oz jars",
+  "unitPrice" : 17.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "65",
+  "productName" : "Louisiana Fiery Hot Pepper Sauce",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "32 - 8 oz bottles",
+  "unitPrice" : 21.050000000000001,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "77",
+  "productName" : "Original Frankfurter grüne Soße",
+  "category" : {
+    "categoryID" : "2",
+    "categoryName" : "Condiments",
+    "description" : "Sweet and savory sauces"
+  },
+  "quantityPerUnit" : "12 boxes",
+  "unitPrice" : 13.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "16",
+  "productName" : "Pavlova",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "32 - 500 g boxes",
+  "unitPrice" : 17.449999999999999,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "19",
+  "productName" : "Teatime Chocolate Biscuits",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "10 boxes x 12 pieces",
+  "unitPrice" : 9.1999999999999993,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "20",
+  "productName" : "Sir Rodney's Marmalade",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "30 gift boxes",
+  "unitPrice" : 81.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "21",
+  "productName" : "Sir Rodney's Scones",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "24 pkgs. x 4 pieces",
+  "unitPrice" : 10.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "25",
+  "productName" : "NuNuCa Nuß-Nougat-Creme",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "20 - 450 g glasses",
+  "unitPrice" : 14.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "26",
+  "productName" : "Gumbär Gummibärchen",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "100 - 250 g bags",
+  "unitPrice" : 31.23,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "27",
+  "productName" : "Schoggi Schokolade",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "100 - 100 g pieces",
+  "unitPrice" : 43.899999999999999,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "48",
+  "productName" : "Chocolade",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "10 pkgs.",
+  "unitPrice" : 12.75,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "47",
+  "productName" : "Zaanse koeken",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "10 - 4 oz boxes",
+  "unitPrice" : 9.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "49",
+  "productName" : "Maxilaku",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "24 - 50 g pkgs.",
+  "unitPrice" : 20.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "50",
+  "productName" : "Valkoinen suklaa",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "12 - 100 g bars",
+  "unitPrice" : 16.25,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "62",
+  "productName" : "Tarte au sucre",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "48 pies",
+  "unitPrice" : 49.299999999999997,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "68",
+  "productName" : "Scottish Longbreads",
+  "category" : {
+    "categoryID" : "3",
+    "categoryName" : "Confections",
+    "description" : "Desserts"
+  },
+  "quantityPerUnit" : "10 boxes x 8 pieces",
+  "unitPrice" : 12.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "11",
+  "productName" : "Queso Cabrales",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "1 kg pkg.",
+  "unitPrice" : 21.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "12",
+  "productName" : "Queso Manchego La Pastora",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "10 - 500 g pkgs.",
+  "unitPrice" : 38.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "31",
+  "productName" : "Gorgonzola Telino",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "12 - 100 g pkgs",
+  "unitPrice" : 12.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "32",
+  "productName" : "Mascarpone Fabioli",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "24 - 200 g pkgs.",
+  "unitPrice" : 32.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "59",
+  "productName" : "Raclette Courdavault",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "5 kg pkg.",
+  "unitPrice" : 55.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "33",
+  "productName" : "Geitost",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "500 g",
+  "unitPrice" : 2.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "60",
+  "productName" : "Camembert Pierrot",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "15 - 300 g rounds",
+  "unitPrice" : 34.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "69",
+  "productName" : "Gudbrandsdalsost",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "10 kg pkg.",
+  "unitPrice" : 36.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "71",
+  "productName" : "Flotemysost",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "10 - 500 g pkgs.",
+  "unitPrice" : 21.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "72",
+  "productName" : "Mozzarella di Giovanni",
+  "category" : {
+    "categoryID" : "4",
+    "categoryName" : "Dairy Products",
+    "description" : "Cheeses"
+  },
+  "quantityPerUnit" : "24 - 200 g pkgs.",
+  "unitPrice" : 34.799999999999997,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "22",
+  "productName" : "Gustaf's Knäckebröd",
+  "category" : {
+    "categoryID" : "5",
+    "categoryName" : "Grains/Cereals",
+    "description" : "Breads"
+  },
+  "quantityPerUnit" : "24 - 500 g pkgs.",
+  "unitPrice" : 21.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "23",
+  "productName" : "Tunnbröd",
+  "category" : {
+    "categoryID" : "5",
+    "categoryName" : "Grains/Cereals",
+    "description" : "Breads"
+  },
+  "quantityPerUnit" : "12 - 250 g pkgs.",
+  "unitPrice" : 9.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "42",
+  "productName" : "Singaporean Hokkien Fried Mee",
+  "category" : {
+    "categoryID" : "5",
+    "categoryName" : "Grains/Cereals",
+    "description" : "Breads"
+  },
+  "quantityPerUnit" : "32 - 1 kg pkgs.",
+  "unitPrice" : 14.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "52",
+  "productName" : "Filo Mix",
+  "category" : {
+    "categoryID" : "5",
+    "categoryName" : "Grains/Cereals",
+    "description" : "Breads"
+  },
+  "quantityPerUnit" : "16 - 2 kg boxes",
+  "unitPrice" : 7.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "56",
+  "productName" : "Gnocchi di nonna Alice",
+  "category" : {
+    "categoryID" : "5",
+    "categoryName" : "Grains/Cereals",
+    "description" : "Breads"
+  },
+  "quantityPerUnit" : "24 - 250 g pkgs.",
+  "unitPrice" : 38.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "57",
+  "productName" : "Ravioli Angelo",
+  "category" : {
+    "categoryID" : "5",
+    "categoryName" : "Grains/Cereals",
+    "description" : "Breads"
+  },
+  "quantityPerUnit" : "24 - 250 g pkgs.",
+  "unitPrice" : 19.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "64",
+  "productName" : "Wimmers gute Semmelknödel",
+  "category" : {
+    "categoryID" : "5",
+    "categoryName" : "Grains/Cereals",
+    "description" : "Breads"
+  },
+  "quantityPerUnit" : "20 bags x 4 pieces",
+  "unitPrice" : 33.25,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "9",
+  "productName" : "Mishi Kobe Niku",
+  "category" : {
+    "categoryID" : "6",
+    "categoryName" : "Meat/Poultry",
+    "description" : "Prepared meats"
+  },
+  "quantityPerUnit" : "18 - 500 g pkgs.",
+  "unitPrice" : 97.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "17",
+  "productName" : "Alice Mutton",
+  "category" : {
+    "categoryID" : "6",
+    "categoryName" : "Meat/Poultry",
+    "description" : "Prepared meats"
+  },
+  "quantityPerUnit" : "20 - 1 kg tins",
+  "unitPrice" : 39.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "29",
+  "productName" : "Thüringer Rostbratwurst",
+  "category" : {
+    "categoryID" : "6",
+    "categoryName" : "Meat/Poultry",
+    "description" : "Prepared meats"
+  },
+  "quantityPerUnit" : "50 bags x 30 sausgs.",
+  "unitPrice" : 123.79000000000001,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "53",
+  "productName" : "Perth Pasties",
+  "category" : {
+    "categoryID" : "6",
+    "categoryName" : "Meat/Poultry",
+    "description" : "Prepared meats"
+  },
+  "quantityPerUnit" : "48 pieces",
+  "unitPrice" : 32.799999999999997,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "55",
+  "productName" : "Pâté chinois",
+  "category" : {
+    "categoryID" : "6",
+    "categoryName" : "Meat/Poultry",
+    "description" : "Prepared meats"
+  },
+  "quantityPerUnit" : "24 boxes x 2 pies",
+  "unitPrice" : 24.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "54",
+  "productName" : "Tourtière",
+  "category" : {
+    "categoryID" : "6",
+    "categoryName" : "Meat/Poultry",
+    "description" : "Prepared meats"
+  },
+  "quantityPerUnit" : "16 pies",
+  "unitPrice" : 7.4500000000000002,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "7",
+  "productName" : "Uncle Bob's Organic Dried Pears",
+  "category" : {
+    "categoryID" : "7",
+    "categoryName" : "Produce",
+    "description" : "Dried fruit and bean curd"
+  },
+  "quantityPerUnit" : "12 - 1 lb pkgs.",
+  "unitPrice" : 30.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "14",
+  "productName" : "Tofu",
+  "category" : {
+    "categoryID" : "7",
+    "categoryName" : "Produce",
+    "description" : "Dried fruit and bean curd"
+  },
+  "quantityPerUnit" : "40 - 100 g pkgs.",
+  "unitPrice" : 23.25,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "28",
+  "productName" : "Rössle Sauerkraut",
+  "category" : {
+    "categoryID" : "7",
+    "categoryName" : "Produce",
+    "description" : "Dried fruit and bean curd"
+  },
+  "quantityPerUnit" : "25 - 825 g cans",
+  "unitPrice" : 45.600000000000001,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "51",
+  "productName" : "Manjimup Dried Apples",
+  "category" : {
+    "categoryID" : "7",
+    "categoryName" : "Produce",
+    "description" : "Dried fruit and bean curd"
+  },
+  "quantityPerUnit" : "50 - 300 g pkgs.",
+  "unitPrice" : 53.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "74",
+  "productName" : "Longlife Tofu",
+  "category" : {
+    "categoryID" : "7",
+    "categoryName" : "Produce",
+    "description" : "Dried fruit and bean curd"
+  },
+  "quantityPerUnit" : "5 kg pkg.",
+  "unitPrice" : 10.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "10",
+  "productName" : "Ikura",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "12 - 200 ml jars",
+  "unitPrice" : 31.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "13",
+  "productName" : "Konbu",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "2 kg box",
+  "unitPrice" : 6.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "18",
+  "productName" : "Carnarvon Tigers",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "16 kg pkg.",
+  "unitPrice" : 62.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "36",
+  "productName" : "Inlagd Sill",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "24 - 250 g  jars",
+  "unitPrice" : 19.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "37",
+  "productName" : "Gravad lax",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "12 - 500 g pkgs.",
+  "unitPrice" : 26.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "41",
+  "productName" : "Jack's New England Clam Chowder",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "12 - 12 oz cans",
+  "unitPrice" : 9.6500000000000004,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "46",
+  "productName" : "Spegesild",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "4 - 450 g glasses",
+  "unitPrice" : 12.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "45",
+  "productName" : "Rogede sild",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "1k pkg.",
+  "unitPrice" : 9.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "40",
+  "productName" : "Boston Crab Meat",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "24 - 4 oz tins",
+  "unitPrice" : 18.399999999999999,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "30",
+  "productName" : "Nord-Ost Matjeshering",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "10 - 200 g glasses",
+  "unitPrice" : 25.890000000000001,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "58",
+  "productName" : "Escargots de Bourgogne",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "24 pieces",
+  "unitPrice" : 13.25,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "73",
+  "productName" : "Röd Kaviar",
+  "category" : {
+    "categoryID" : "8",
+    "categoryName" : "Seafood",
+    "description" : "Seaweed and fish"
+  },
+  "quantityPerUnit" : "24 - 150 g jars",
+  "unitPrice" : 15.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "1",
+  "productName" : "Chai",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "10 boxes x 20 bags",
+  "unitPrice" : 18.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "2",
+  "productName" : "Chang",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "24 - 12 oz bottles",
+  "unitPrice" : 19.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "24",
+  "productName" : "Guaraná Fantástica",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "12 - 355 ml cans",
+  "unitPrice" : 4.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "35",
+  "productName" : "Steeleye Stout",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "24 - 12 oz bottles",
+  "unitPrice" : 18.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "38",
+  "productName" : "Côte de Blaye",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "12 - 75 cl bottles",
+  "unitPrice" : 263.5,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "39",
+  "productName" : "Chartreuse verte",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "750 cc per bottle",
+  "unitPrice" : 18.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "43",
+  "productName" : "Ipoh Coffee",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "16 - 500 g tins",
+  "unitPrice" : 46.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "34",
+  "productName" : "Sasquatch Ale",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "24 - 12 oz bottles",
+  "unitPrice" : 14.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "67",
+  "productName" : "Laughing Lumberjack Lager",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "24 - 12 oz bottles",
+  "unitPrice" : 14.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "70",
+  "productName" : "Outback Lager",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "24 - 355 ml bottles",
+  "unitPrice" : 15.0,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "75",
+  "productName" : "Rhönbräu Klosterbier",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "24 - 0.5 l bottles",
+  "unitPrice" : 7.75,
+  "_class" : "category.document.Product"
+}
+{
+  "_id" : "76",
+  "productName" : "Lakkalikööri",
+  "category" : {
+    "categoryID" : "1",
+    "categoryName" : "Beverages",
+    "description" : "Soft drinks"
+  },
+  "quantityPerUnit" : "500 ml",
+  "unitPrice" : 18.0,
+  "_class" : "category.document.Product"
+}

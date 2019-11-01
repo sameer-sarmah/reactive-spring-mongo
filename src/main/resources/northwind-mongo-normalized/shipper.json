@@ -1,0 +1,18 @@
+﻿{
+  "_id" : "3",
+  "companyName" : "Federal Shipping",
+  "phone" : "(503) 555-9931",
+  "_class" : "category.document.Shipper"
+}
+{
+  "_id" : "2",
+  "companyName" : "United Package",
+  "phone" : "(503) 555-3199",
+  "_class" : "category.document.Shipper"
+}
+{
+  "_id" : "1",
+  "companyName" : "Speedy Express",
+  "phone" : "(503) 555-9831",
+  "_class" : "category.document.Shipper"
+}

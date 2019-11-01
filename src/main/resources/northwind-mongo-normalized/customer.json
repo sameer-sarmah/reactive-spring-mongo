@@ -1,0 +1,1092 @@
+﻿{
+  "_id" : "ALFKI",
+  "customerName" : "Maria Anders",
+  "phone" : "030-0074321",
+  "address" : {
+    "street" : "Obere Str. 57",
+    "city" : "Berlin",
+    "country" : "Germany",
+    "ZIP" : NumberLong(12209)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "ANATR",
+  "customerName" : "Ana Trujillo",
+  "phone" : "(5) 555-4729",
+  "address" : {
+    "street" : "Avda. de la Constitución 2222",
+    "city" : "México D.F.",
+    "country" : "Mexico",
+    "ZIP" : NumberLong(5021)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "ANTON",
+  "customerName" : "Antonio Moreno",
+  "phone" : "(5) 555-3932",
+  "address" : {
+    "street" : "Mataderos  2312",
+    "city" : "México D.F.",
+    "country" : "Mexico",
+    "ZIP" : NumberLong(5023)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "AROUT",
+  "customerName" : "Thomas Hardy",
+  "phone" : "(171) 555-7788",
+  "address" : {
+    "street" : "120 Hanover Sq.",
+    "city" : "London",
+    "country" : "UK",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "BERGS",
+  "customerName" : "Christina Berglund",
+  "phone" : "0921-12 34 65",
+  "address" : {
+    "street" : "Berguvsvägen  8",
+    "city" : "Luleå",
+    "country" : "Sweden",
+    "ZIP" : NumberLong(785005)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "BLAUS",
+  "customerName" : "Hanna Moos",
+  "phone" : "0621-08460",
+  "address" : {
+    "street" : "Forsterstr. 57",
+    "city" : "Mannheim",
+    "country" : "Germany",
+    "ZIP" : NumberLong(68306)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "BLONP",
+  "customerName" : "Frédérique Citeaux",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "BONAP",
+  "customerName" : "Laurence Lebihan",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "BOLID",
+  "customerName" : "Martín Sommer",
+  "phone" : "Spain",
+  "address" : {
+    "street" : "C/ Araquil",
+    "city" : "Bangalore",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "BOTTM",
+  "customerName" : "Elizabeth Lincoln",
+  "phone" : "(604) 555-4729",
+  "address" : {
+    "street" : "23 Tsawassen Blvd.",
+    "city" : "Tsawassen",
+    "country" : "Canada",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "CACTU",
+  "customerName" : "Patricio Simpson",
+  "phone" : "(1) 135-5555",
+  "address" : {
+    "street" : "Cerrito 333",
+    "city" : "Buenos Aires",
+    "country" : "Argentina",
+    "ZIP" : NumberLong(1010)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "BSBEV",
+  "customerName" : "Victoria Ashworth",
+  "phone" : "(171) 555-1212",
+  "address" : {
+    "street" : "Fauntleroy Circus",
+    "city" : "London",
+    "country" : "UK",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "CENTC",
+  "customerName" : "Francisco Chang",
+  "phone" : "(5) 555-3392",
+  "address" : {
+    "street" : "Sierras de Granada 9993",
+    "city" : "México D.F.",
+    "country" : "Mexico",
+    "ZIP" : NumberLong(5022)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "CHOPS",
+  "customerName" : "Yang Wang",
+  "phone" : "0452-076545",
+  "address" : {
+    "street" : "Hauptstr. 29",
+    "city" : "Bern",
+    "country" : "Switzerland",
+    "ZIP" : NumberLong(3012)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "CONSH",
+  "customerName" : "Elizabeth Brown",
+  "phone" : "(171) 555-2282",
+  "address" : {
+    "street" : "Berkeley Gardens 12  Brewery",
+    "city" : "London",
+    "country" : "UK",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "COMMI",
+  "customerName" : "Pedro Afonso",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Av. dos Lusíadas",
+    "city" : "Bangalore",
+    "country" : "05432-043",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "DRACD",
+  "customerName" : "Sven Ottlieb",
+  "phone" : "0241-039123",
+  "address" : {
+    "street" : "Walserweg 21",
+    "city" : "Aachen",
+    "country" : "Germany",
+    "ZIP" : NumberLong(52066)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "DUMON",
+  "customerName" : "Janine Labrune",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "EASTC",
+  "customerName" : "Ann Devon",
+  "phone" : "(171) 555-0297",
+  "address" : {
+    "street" : "35 King George",
+    "city" : "London",
+    "country" : "UK",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "ERNSH",
+  "customerName" : "Roland Mendel",
+  "phone" : "7675-3425",
+  "address" : {
+    "street" : "Kirchgasse 6",
+    "city" : "Graz",
+    "country" : "Austria",
+    "ZIP" : NumberLong(8010)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "FAMIA",
+  "customerName" : "Aria Cruz",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Rua Orós",
+    "city" : "Bangalore",
+    "country" : "05442-030",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "FISSA",
+  "customerName" : "Diego Roel",
+  "phone" : "Spain",
+  "address" : {
+    "street" : "C/ Moralzarzal",
+    "city" : "Bangalore",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "FOLIG",
+  "customerName" : "Martine Rancé",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "FOLKO",
+  "customerName" : "Maria Larsson",
+  "phone" : "0695-34 67 21",
+  "address" : {
+    "street" : "Åkergatan 24",
+    "city" : "Bräcke",
+    "country" : "Sweden",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "FRANK",
+  "customerName" : "Peter Franken",
+  "phone" : "089-0877310",
+  "address" : {
+    "street" : "Berliner Platz 43",
+    "city" : "München",
+    "country" : "Germany",
+    "ZIP" : NumberLong(80805)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "FRANR",
+  "customerName" : "Carine Schmitt",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "FRANS",
+  "customerName" : "Paolo Accorti",
+  "phone" : "011-4988260",
+  "address" : {
+    "street" : "Via Monte Bianco 34",
+    "city" : "Torino",
+    "country" : "Italy",
+    "ZIP" : NumberLong(10100)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "FURIB",
+  "customerName" : "Lino Rodriguez",
+  "phone" : "(1) 354-2534",
+  "address" : {
+    "street" : "Jardim das rosas n. 32",
+    "city" : "Lisboa",
+    "country" : "Portugal",
+    "ZIP" : NumberLong(1675)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "GALED",
+  "customerName" : "Eduardo Saavedra",
+  "phone" : "Spain",
+  "address" : {
+    "street" : "Rambla de Cataluña",
+    "city" : "Bangalore",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "GODOS",
+  "customerName" : "José Pedro Freyre",
+  "phone" : "Spain",
+  "address" : {
+    "street" : "C/ Romero",
+    "city" : "Bangalore",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "GOURL",
+  "customerName" : "André Fonseca",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Av. Brasil",
+    "city" : "Bangalore",
+    "country" : "04876-786",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "GREAL",
+  "customerName" : "Howard Snyder",
+  "phone" : "(503) 555-7555",
+  "address" : {
+    "street" : "2732 Baker Blvd.",
+    "city" : "Eugene",
+    "country" : "USA",
+    "ZIP" : NumberLong(97403)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "HANAR",
+  "customerName" : "Mario Pontes",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Rua do Paço",
+    "city" : "Bangalore",
+    "country" : "05454-876",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "HUNGC",
+  "customerName" : "Yoshi Latimer",
+  "phone" : "(503) 555-6874",
+  "address" : {
+    "street" : "City Center Plaza 516 Main St.",
+    "city" : "Elgin",
+    "country" : "USA",
+    "ZIP" : NumberLong(97827)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "HILAA",
+  "customerName" : "Carlos Hernández",
+  "phone" : "(5) 555-1340",
+  "address" : {
+    "street" : "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "city" : "San Cristóbal",
+    "country" : "Venezuela",
+    "ZIP" : NumberLong(5022)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "HUNGO",
+  "customerName" : "Patricia McKenna",
+  "phone" : "2967 542",
+  "address" : {
+    "street" : "8 Johnstown Road",
+    "city" : "Cork",
+    "country" : "Ireland",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "GROSR",
+  "customerName" : "Manuel Pereira",
+  "phone" : "(2) 283-2951",
+  "address" : {
+    "street" : "5ª Ave. Los Palos Grandes",
+    "city" : "Caracas",
+    "country" : "Venezuela",
+    "ZIP" : NumberLong(1081)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "ISLAT",
+  "customerName" : "Helen Bennett",
+  "phone" : "(198) 555-8888",
+  "address" : {
+    "street" : "Garden House Crowther Way",
+    "city" : "Cowes",
+    "country" : "UK",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "KOENE",
+  "customerName" : "Philip Cramer",
+  "phone" : "0555-09876",
+  "address" : {
+    "street" : "Maubelstr. 90",
+    "city" : "Brandenburg",
+    "country" : "Germany",
+    "ZIP" : NumberLong(14776)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LACOR",
+  "customerName" : "Daniel Tonini",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LAMAI",
+  "customerName" : "Annette Roulet",
+  "phone" : "61.77.61.10",
+  "address" : {
+    "street" : "1 rue Alsace-Lorraine",
+    "city" : "Toulouse",
+    "country" : "France",
+    "ZIP" : NumberLong(31000)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LAUGB",
+  "customerName" : "Yoshi Tannamuri",
+  "phone" : "(604) 555-3392",
+  "address" : {
+    "street" : "1900 Oak St.",
+    "city" : "Vancouver",
+    "country" : "Canada",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LAZYK",
+  "customerName" : "John Steel",
+  "phone" : "(509) 555-7969",
+  "address" : {
+    "street" : "12 Orchestra Terrace",
+    "city" : "Walla Walla",
+    "country" : "USA",
+    "ZIP" : NumberLong(99362)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LEHMS",
+  "customerName" : "Renate Messner",
+  "phone" : "069-0245984",
+  "address" : {
+    "street" : "Magazinweg 7",
+    "city" : "Frankfurt a.M.",
+    "country" : "Germany",
+    "ZIP" : NumberLong(60528)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LETSS",
+  "customerName" : "Jaime Yorres",
+  "phone" : "(415) 555-5938",
+  "address" : {
+    "street" : "87 Polk St. Suite 5",
+    "city" : "San Francisco",
+    "country" : "USA",
+    "ZIP" : NumberLong(94117)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LINOD",
+  "customerName" : "Felipe Izquierdo",
+  "phone" : "(8) 34-56-12",
+  "address" : {
+    "street" : "Ave. 5 de Mayo Porlamar",
+    "city" : "I. de Margarita",
+    "country" : "Venezuela",
+    "ZIP" : NumberLong(4980)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LONEP",
+  "customerName" : "Fran Wilson",
+  "phone" : "(503) 555-9573",
+  "address" : {
+    "street" : "89 Chiaroscuro Rd.",
+    "city" : "Portland",
+    "country" : "USA",
+    "ZIP" : NumberLong(97219)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "MAGAA",
+  "customerName" : "Giovanni Rovelli",
+  "phone" : "035-640230",
+  "address" : {
+    "street" : "Via Ludovico il Moro 22",
+    "city" : "Bergamo",
+    "country" : "Italy",
+    "ZIP" : NumberLong(24100)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "LILAS",
+  "customerName" : "Carlos González",
+  "phone" : "(9) 331-6954",
+  "address" : {
+    "street" : "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "city" : "Barquisimeto",
+    "country" : "Venezuela",
+    "ZIP" : NumberLong(3508)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "MAISD",
+  "customerName" : "Catherine Dewey",
+  "phone" : "(02) 201 24 67",
+  "address" : {
+    "street" : "Rue Joseph-Bens 532",
+    "city" : "Bruxelles",
+    "country" : "Belgium",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "MEREP",
+  "customerName" : "Jean Fresnière",
+  "phone" : "(514) 555-8054",
+  "address" : {
+    "street" : "43 rue St. Laurent",
+    "city" : "Montréal",
+    "country" : "Canada",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "MORGK",
+  "customerName" : "Alexander Feuer",
+  "phone" : "0342-023176",
+  "address" : {
+    "street" : "Heerstr. 22",
+    "city" : "Leipzig",
+    "country" : "Germany",
+    "ZIP" : NumberLong(4179)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "NORTS",
+  "customerName" : "Simon Crowther",
+  "phone" : "(171) 555-7733",
+  "address" : {
+    "street" : "South House 300 Queensbridge",
+    "city" : "London",
+    "country" : "UK",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "OCEAN",
+  "customerName" : "Yvonne Moncada",
+  "phone" : "(1) 135-5333",
+  "address" : {
+    "street" : "Ing. Gustavo Moncada 8585 Piso 20-A",
+    "city" : "Buenos Aires",
+    "country" : "Argentina",
+    "ZIP" : NumberLong(1010)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "OLDWO",
+  "customerName" : "Rene Phillips",
+  "phone" : "(907) 555-7584",
+  "address" : {
+    "street" : "2743 Bering St.",
+    "city" : "Anchorage",
+    "country" : "USA",
+    "ZIP" : NumberLong(99508)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "OTTIK",
+  "customerName" : "Henriette Pfalzheim",
+  "phone" : "0221-0644327",
+  "address" : {
+    "street" : "Mehrheimerstr. 369",
+    "city" : "Köln",
+    "country" : "Germany",
+    "ZIP" : NumberLong(50739)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "PARIS",
+  "customerName" : "Marie Bertrand",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "PERIC",
+  "customerName" : "Guillermo Fernández",
+  "phone" : "(5) 552-3745",
+  "address" : {
+    "street" : "Calle Dr. Jorge Cash 321",
+    "city" : "México D.F.",
+    "country" : "Mexico",
+    "ZIP" : NumberLong(5033)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "PICCO",
+  "customerName" : "Georg Pipps",
+  "phone" : "6562-9722",
+  "address" : {
+    "street" : "Geislweg 14",
+    "city" : "Salzburg",
+    "country" : "Austria",
+    "ZIP" : NumberLong(5020)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "PRINI",
+  "customerName" : "Isabel de Castro",
+  "phone" : "(1) 356-5634",
+  "address" : {
+    "street" : "Estrada da saúde n. 58",
+    "city" : "Lisboa",
+    "country" : "Portugal",
+    "ZIP" : NumberLong(1756)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "QUEDE",
+  "customerName" : "Bernardo Batista",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Rua da Panificadora",
+    "city" : "Bangalore",
+    "country" : "02389-673",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "QUICK",
+  "customerName" : "Horst Kloss",
+  "phone" : "0372-035188",
+  "address" : {
+    "street" : "Taucherstraße 10",
+    "city" : "Cunewalde",
+    "country" : "Germany",
+    "ZIP" : NumberLong(1307)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "QUEEN",
+  "customerName" : "Lúcia Carvalho",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Alameda dos Canàrios",
+    "city" : "Bangalore",
+    "country" : "05487-020",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "RANCH",
+  "customerName" : "Sergio Gutiérrez",
+  "phone" : "(1) 123-5555",
+  "address" : {
+    "street" : "Av. del Libertador 900",
+    "city" : "Buenos Aires",
+    "country" : "Argentina",
+    "ZIP" : NumberLong(1010)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "RATTC",
+  "customerName" : "Paula Wilson",
+  "phone" : "(505) 555-5939",
+  "address" : {
+    "street" : "2817 Milton Dr.",
+    "city" : "Albuquerque",
+    "country" : "USA",
+    "ZIP" : NumberLong(87110)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "REGGC",
+  "customerName" : "Maurizio Moroni",
+  "phone" : "0522-556721",
+  "address" : {
+    "street" : "Strada Provinciale 124",
+    "city" : "Reggio Emilia",
+    "country" : "Italy",
+    "ZIP" : NumberLong(42100)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "RICAR",
+  "customerName" : "Janete Limeira",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Av. Copacabana",
+    "city" : "Bangalore",
+    "country" : "02389-890",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "RICSU",
+  "customerName" : "Michael Holz",
+  "phone" : "0897-034214",
+  "address" : {
+    "street" : "Grenzacherweg 237",
+    "city" : "Genève",
+    "country" : "Switzerland",
+    "ZIP" : NumberLong(1203)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "ROMEY",
+  "customerName" : "Alejandra Camino",
+  "phone" : "Spain",
+  "address" : {
+    "street" : "Gran Vía",
+    "city" : "Bangalore",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "SANTG",
+  "customerName" : "Jonas Bergulfsen",
+  "phone" : "07-98 92 35",
+  "address" : {
+    "street" : "Erling Skakkes gate 78",
+    "city" : "Stavern",
+    "country" : "Norway",
+    "ZIP" : NumberLong(4110)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "SAVEA",
+  "customerName" : "Jose Pavarotti",
+  "phone" : "(208) 555-8097",
+  "address" : {
+    "street" : "187 Suffolk Ln.",
+    "city" : "Boise",
+    "country" : "USA",
+    "ZIP" : NumberLong(83720)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "SEVES",
+  "customerName" : "Hari Kumar",
+  "phone" : "(171) 555-1717",
+  "address" : {
+    "street" : "90 Wadhurst Rd.",
+    "city" : "London",
+    "country" : "UK",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "SIMOB",
+  "customerName" : "Jytte Petersen",
+  "phone" : "31 12 34 56",
+  "address" : {
+    "street" : "Vinbæltet 34",
+    "city" : "Kobenhavn",
+    "country" : "Denmark",
+    "ZIP" : NumberLong(1734)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "SPECD",
+  "customerName" : "Dominique Perrier",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "SPLIR",
+  "customerName" : "Art Braunschweiger",
+  "phone" : "(307) 555-4680",
+  "address" : {
+    "street" : "P.O. Box 555",
+    "city" : "Lander",
+    "country" : "USA",
+    "ZIP" : NumberLong(82520)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "SUPRD",
+  "customerName" : "Pascale Cartrain",
+  "phone" : "Belgium",
+  "address" : {
+    "street" : "Boulevard Tirou",
+    "city" : "Bangalore",
+    "country" : "B-6000",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "THECR",
+  "customerName" : "Liu Wong",
+  "phone" : "(406) 555-5834",
+  "address" : {
+    "street" : "55 Grizzly Peak Rd.",
+    "city" : "Butte",
+    "country" : "USA",
+    "ZIP" : NumberLong(59801)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "THEBI",
+  "customerName" : "Liz Nixon",
+  "phone" : "(503) 555-3612",
+  "address" : {
+    "street" : "89 Jefferson Way Suite 2",
+    "city" : "Portland",
+    "country" : "USA",
+    "ZIP" : NumberLong(97201)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "TOMSP",
+  "customerName" : "Karin Josephs",
+  "phone" : "0251-031259",
+  "address" : {
+    "street" : "Luisenstr. 48",
+    "city" : "Münster",
+    "country" : "Germany",
+    "ZIP" : NumberLong(44087)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "TORTU",
+  "customerName" : "Miguel Angel Paolino",
+  "phone" : "(5) 555-2933",
+  "address" : {
+    "street" : "Avda. Azteca 123",
+    "city" : "México D.F.",
+    "country" : "Mexico",
+    "ZIP" : NumberLong(5033)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "TRADH",
+  "customerName" : "Anabela Domingues",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Av. Inês de Castro",
+    "city" : "Bangalore",
+    "country" : "05634-030",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "TRAIH",
+  "customerName" : "Helvetius Nagy",
+  "phone" : "(206) 555-8257",
+  "address" : {
+    "street" : "722 DaVinci Blvd.",
+    "city" : "Kirkland",
+    "country" : "USA",
+    "ZIP" : NumberLong(98034)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "VAFFE",
+  "customerName" : "Palle Ibsen",
+  "phone" : "86 21 32 43",
+  "address" : {
+    "street" : "Smagsloget 45",
+    "city" : "Århus",
+    "country" : "Denmark",
+    "ZIP" : NumberLong(8200)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "VICTE",
+  "customerName" : "Mary Saveley",
+  "phone" : "France",
+  "address" : {
+    "street" : "Brookfield",
+    "city" : "Brookfield",
+    "country" : "India",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "VINET",
+  "customerName" : "Paul Henriot",
+  "phone" : "26.47.15.10",
+  "address" : {
+    "street" : "59 rue de l'Abbaye",
+    "city" : "Reims",
+    "country" : "France",
+    "ZIP" : NumberLong(51100)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "WARTH",
+  "customerName" : "Pirkko Koskitalo",
+  "phone" : "981-443655",
+  "address" : {
+    "street" : "Torikatu 38",
+    "city" : "Oulu",
+    "country" : "Finland",
+    "ZIP" : NumberLong(90110)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "WANDK",
+  "customerName" : "Rita Müller",
+  "phone" : "0711-020361",
+  "address" : {
+    "street" : "Adenauerallee 900",
+    "city" : "Stuttgart",
+    "country" : "Germany",
+    "ZIP" : NumberLong(70563)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "WELLI",
+  "customerName" : "Paula Parente",
+  "phone" : "Brazil",
+  "address" : {
+    "street" : "Rua do Mercado",
+    "city" : "Bangalore",
+    "country" : "08737-363",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "WHITC",
+  "customerName" : "Karl Jablonski",
+  "phone" : "(206) 555-4112",
+  "address" : {
+    "street" : "305 - 14th Ave. S. Suite 3B",
+    "city" : "Seattle",
+    "country" : "USA",
+    "ZIP" : NumberLong(98128)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "WILMK",
+  "customerName" : "Matti Karttunen",
+  "phone" : "90-224 8858",
+  "address" : {
+    "street" : "Keskuskatu 45",
+    "city" : "Helsinki",
+    "country" : "Finland",
+    "ZIP" : NumberLong(21240)
+  },
+  "_class" : "category.document.Customer"
+}
+{
+  "_id" : "WOLZA",
+  "customerName" : "Zbyszek Piestrzeniewicz",
+  "phone" : "(26) 642-7012",
+  "address" : {
+    "street" : "ul. Filtrowa 68",
+    "city" : "Warszawa",
+    "country" : "Poland",
+    "ZIP" : NumberLong(1234)
+  },
+  "_class" : "category.document.Customer"
+}
